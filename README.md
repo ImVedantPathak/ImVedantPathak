@@ -59,9 +59,9 @@ it is worth understanding.
 
 ## status
 
-Building
-Testing
-Removing unnecessary steps
+Building, 
+Testing, 
+Removing unnecessary steps.
 
 ---
 
