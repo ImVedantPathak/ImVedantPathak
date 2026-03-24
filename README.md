@@ -1,16 +1,73 @@
-## Hi there 👋
+# hi
 
-<!--
-**ImVedantPathak/ImVedantPathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i write code
 
-Here are some ideas to get you started:
+sometimes it works
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## what i do
+
+* build weird systems
+* accidentally make them faster than they should be
+* ignore rules i don’t like
+
+currently:
+
+* making AI that does not behave like AI - [STORM Intelligence](https://stormintelligence.xyz/)
+* turning “this is impossible” into “ok it runs now”
+
+---
+
+## skills
+
+* C / C++ (i enjoy pain)
+* Python (when i want things to work)
+* breaking abstractions
+* not using GPUs (out of spite)
+
+---
+
+## projects
+
+* something that compresses data by ~99.85%
+  (no it’s not compression, don’t ask)
+
+* some AI thing
+  (it works, which is concerning)
+
+* other things i probably forgot about
+
+---
+
+## achievements
+
+* compiled on first try (once)
+* fixed a bug by staring at it
+* created new bugs while fixing old ones
+
+---
+
+## philosophy
+
+if it sounds stupid but works
+it’s not stupid
+
+if it shouldn’t work but does
+even better
+
+---
+
+## status
+
+alive
+building
+questioning everything
+
+---
+
+## contact
+
+email: [vedant@stormintelligence.xyz](mailto:vedant@stormintelligence.xyz)
+
+if you know, you know
