@@ -1,73 +1,70 @@
 # hi
 
-i write code
-
-sometimes it works
+I write code.
+It usually works.
 
 ---
 
-## what i do
+## what I do
 
-* build weird systems
-* accidentally make them faster than they should be
-* ignore rules i don’t like
+* Build systems that behave slightly differently than expected
+* Make things faster than they were designed to be
+* Ignore constraints that do not make sense
 
-currently:
+Currently:
 
-* making AI that does not behave like AI - [STORM Intelligence](https://stormintelligence.xyz/)
-* turning “this is impossible” into “ok it runs now”
+* Building AI that does not behave like AI — [STORM Intelligence](https://stormintelligence.xyz/)
+* Turning “this is impossible” into something that compiles
 
 ---
 
 ## skills
 
-* C / C++ (i enjoy pain)
-* Python (when i want things to work)
-* breaking abstractions
-* not using GPUs (out of spite)
+* C / C++ (control)
+* Python (speed of iteration)
+* CUDA (when performance actually matters)
+* Breaking abstractions when necessary
+* Not using GPUs (intentionally, unless I do)
 
 ---
 
 ## projects
 
-* something that compresses data by ~99.85%
-  (no it’s not compression, don’t ask)
+* A system that reduces data by ~99.85%
+  (no, it is not compression)
 
-* some AI thing
-  (it works, which is concerning)
+* An AI model
+  (it works; still verifying why)
 
-* other things i probably forgot about
+* Other things in various states of completion
 
 ---
 
 ## achievements
 
-* compiled on first try (once)
-* fixed a bug by staring at it
-* created new bugs while fixing old ones
+* Code compiled on the first try (statistically insignificant event)
+* Fixed bugs without changing anything
+* Introduced bugs while fixing unrelated issues
 
 ---
 
 ## philosophy
 
-if it sounds stupid but works
-it’s not stupid
+If it works, it is valid.
 
-if it shouldn’t work but does
-even better
+If it should not work but does,
+it is worth understanding.
 
 ---
 
 ## status
 
-alive
-building
-questioning everything
+Building
+Testing
+Removing unnecessary steps
 
 ---
 
 ## contact
 
-email: [vedant@stormintelligence.xyz](mailto:vedant@stormintelligence.xyz)
-
-if you know, you know
+[vedant@stormintelligence.xyz](mailto:vedant@stormintelligence.xyz)
