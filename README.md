@@ -20,8 +20,8 @@ Currently:
 
 ## projects
 
-* An AI model
-  (it works; still verifying why)
+* An Intelligent Machine
+  (its gettting more and more intelligence everyday)
   
 * A system that reduces data by ~99.85%
   (no, it is not compression)
