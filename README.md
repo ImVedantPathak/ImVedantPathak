@@ -21,7 +21,7 @@ Currently:
 ## projects
 
 * An Intelligent Machine
-  (its gettting more and more intelligence everyday)
+  (its getting more and more intelligent everyday)
   
 * A system that reduces data by ~99.85%
   (no, it is not compression)
